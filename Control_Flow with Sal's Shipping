@@ -48,3 +48,9 @@ def cheapest_shipping(weight):
 cheapest_shipping(4.8)
 
 cheapest_shipping(41.5)
+
+# Output printed to the screen:
+# 53.6
+# 6.75
+# Ground Shipping is the cheapest and will cost 34.4 dollars to mail.
+# Premium Ground Shipping is the cheapest and will cost 125.00 dollars to mail.
